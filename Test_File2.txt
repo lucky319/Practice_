@@ -1,1 +1,3 @@
 Test file 2  to created 
+
+Added new line to to practice gitgub from terminal
