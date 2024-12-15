@@ -1,0 +1,13 @@
+Test file 2  to created 
+
+Branch
+
+1. main/master - branch
+
+2     Test brach  
+                
+ When p2 = Person() is executed:
+when creating p2 it should initialise an empty list as p2 is new object of the class
+
+p2 is created and appended to the same Person.instances list.
+Person.instances now contains [p1, p2].
